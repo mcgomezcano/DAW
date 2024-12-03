@@ -1,0 +1,3 @@
+example.com.    IN    A       192.0.2.1
+www             IN    CNAME   daw.com.
+mail            IN    MX      10 jtormo.daw.com.
