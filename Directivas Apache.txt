@@ -1,0 +1,8 @@
+# Jose Alba Arrufat
+* ServerRoot
+* PidFile
+* ScoreBoardFile
+* Timeout
+* KeepAlive
+
+// Me dio pereza poner más

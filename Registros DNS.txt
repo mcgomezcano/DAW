@@ -1,0 +1,10 @@
+# Jose Alba Arrufat
+* A
+* AAAA
+* CNAME
+* MX
+* TXT
+* NS
+* SOA
+* SRV
+* PTR

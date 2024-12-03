@@ -1,0 +1,10 @@
+# Jose Alba Arrufat
+* HEAD
+* POST
+* PUT
+* GET
+* DELETE
+* CONNECT
+* OPTIONS
+* TRACE
+* PATCH
