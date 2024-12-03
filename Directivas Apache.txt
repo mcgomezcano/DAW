@@ -1,0 +1,3 @@
+ServerName www.daw.com
+DocumentRoot /var/www/html
+Timeout 300
