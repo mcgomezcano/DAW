@@ -4,4 +4,4 @@ Registro MX (Mail Exchange Record)
 Registro TXT (Text Record)
 Registro NS (Name Server Record)
 Registro SRV (Service Record)
-Registro AAAA (IPv6 Address Record)
+
