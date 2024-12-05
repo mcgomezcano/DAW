@@ -1,0 +1,4 @@
+GET: Solicita datos de un servidor.
+POST: Envía datos al servidor.
+PUT: Actualiza o crea un recurso.
+DELETE: Elimina un recurso.
