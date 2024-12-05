@@ -1,0 +1,3 @@
+RewriteRule: Redirecciona URLs.
+DocumentRoot: Especifica el directorio raíz.
+Options: Configura permisos y características.
