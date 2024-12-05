@@ -1,0 +1,3 @@
+A: Direcciona un dominio a una dirección IP.
+CNAME: Alias de un dominio.
+MX: Define el servidor de correo para un dominio.
