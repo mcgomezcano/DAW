@@ -1,0 +1,5 @@
+A
+AAAA(IPv6 Address)
+CNAME
+MX
+TXT
